@@ -1,9 +1,9 @@
 {
     "name": "Gold Digger",
-    "symbol": "GLDD",
-    "description": "Gold Digger aims to foster a trustworthy and sustainable crypto ecosystem. Our mission is to significantly reduce the incidence of rug pulls and bot attacks, providing a safer investment space for all. We are dedicated to supporting investors who seek to earn and grow their wealth in the crypto world, free from the fear of common pitfalls.",
-    "website": "https://golddigger.fun",
-    "image": "https://yellow-abundant-cephalopod-801.mypinata.cloud/ipfs/QmbRLi73DhhR8WBS3x4qRdRG6JaF72iH8Wc93rXtAGodXh",
+    "symbol": "DIGR",
+    "description": "Gold Digger is a comprehensive Solana-based platform that combines NFT marketplace functionality, DeFi features, and AI-powered chatbot, AI agent integration, tools to create a unique ecosystem for crypto enthusiasts.",
+    "website": "https://golddigger.dev",
+    "image": "https://ucarecdn.com/5ffe7e5b-c316-4c57-9a21-841ec935f073/token.png",
     "uri": "https://raw.githubusercontent.com/gold-digg3r/gold-digger-token/main/metadata.json",
     "seller_fee_basis_points": 500,
     "creators": null
